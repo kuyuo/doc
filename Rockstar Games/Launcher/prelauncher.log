@@ -1,0 +1,10 @@
+[2022-08-18 22:16:43.895] [DISPLAY] LauncherPatcher version: 1.0.0.14
+[2022-08-18 22:16:43.895] [DISPLAY] Launcher version: 1.0.0.14
+[2022-08-18 22:16:43.895] [DISPLAY] Retrieving Launcher manifest: "https://gamedownloads.rockstargames.com/public/prelauncher.ini"
+[2022-08-18 22:16:43.903] [DISPLAY] Retrieving minimum supported versions.
+[2022-08-18 22:16:44.309] [DISPLAY] Minimum LauncherPatcher version: 1.0.0.12
+[2022-08-18 22:16:44.356] [DISPLAY] Running Launcher from "D:\Program Files\Rockstar Games\Launcher\Launcher.exe"
+[2022-08-18 23:01:00.132] [DISPLAY] LauncherPatcher version: 1.0.0.14
+[2022-08-18 23:01:00.133] [DISPLAY] Launcher version: 1.0.0.14
+[2022-08-18 23:01:00.133] [DISPLAY] Launcher exited with code: 0
+[2022-08-18 23:01:00.176] [DISPLAY] Shutting down.

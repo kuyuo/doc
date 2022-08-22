@@ -1,0 +1,76 @@
+[2022-08-18 21:54:49.100] [  2592] [11C0] ===================================
+[2022-08-18 21:54:49.100] [  2592] [11C0] Browser process opened from pid: 14512
+[2022-08-18 21:54:49.101] [  2592] [11C0] Language: zh-CN
+[2022-08-18 21:54:49.101] [  2592] [11C0] Connecting to IPC channel: rgsc_ipc_38b0
+[2022-08-18 21:54:49.102] [  2592] [11C0] Product version: RockstarGames/2.1.5.1/1.0.62.937/launcher/Epic
+[2022-08-18 21:54:49.151] [  2592] [11C0] OnChannelConnected - rgsc_ipc_38b0 (remoteProcessId 14512)
+[2022-08-18 21:54:52.644] [  2592] [11C0] Renderer[1][6268] IPC channel response: connect to 'rgsc_ipc_38b0_channel_1'
+[2022-08-18 21:54:52.645] [  2592] [11C0] Renderer[1][6268] Connecting to IPC channel: rgsc_ipc_38b0_channel_1
+[2022-08-18 21:54:52.737] [  2592] [11C0] Renderer[1][6268] OnChannelConnected - rgsc_ipc_38b0_channel_1 (remoteProcessId 14512)
+[2022-08-18 22:09:15.428] [  2592] [11C0] All windows now closed, requesting cleanup.
+[2022-08-18 22:09:15.431] [  2592] [11C0] Posting quit to main message loop.
+[2022-08-18 22:09:15.431] [  2592] [11C0] MainMessageLoopInternalPump - Quit requested
+[2022-08-18 22:09:15.445] [  2592] [11C0] MainMessageLoopInternalPump - Preparing to shutdown
+[2022-08-18 22:09:17.351] [  2592] [11C0] OnChannelError() - rgsc_ipc_38b0
+[2022-08-18 22:09:17.367] [  2592] [11C0] Timed out waiting for windows to close on shutdown
+[2022-08-18 22:09:18.593] [  2592] [11C0] MainMessageLoopInternalPump - Shutdown
+[2022-08-18 22:09:32.681] [ 16280] [4FD4] ===================================
+[2022-08-18 22:09:32.681] [ 16280] [4FD4] Browser process opened from pid: 10140
+[2022-08-18 22:09:32.681] [ 16280] [4FD4] Language: zh-CN
+[2022-08-18 22:09:32.681] [ 16280] [4FD4] Connecting to IPC channel: rgsc_ipc_279c
+[2022-08-18 22:09:32.682] [ 16280] [4FD4] Product version: RockstarGames/2.1.5.1/1.0.62.937/launcher/Epic
+[2022-08-18 22:09:32.722] [ 16280] [4FD4] OnChannelConnected - rgsc_ipc_279c (remoteProcessId 10140)
+[2022-08-18 22:09:35.178] [ 16280] [4FD4] Renderer[1][2208] IPC channel response: connect to 'rgsc_ipc_279c_channel_1'
+[2022-08-18 22:09:35.178] [ 16280] [4FD4] Renderer[1][2208] Connecting to IPC channel: rgsc_ipc_279c_channel_1
+[2022-08-18 22:09:35.210] [ 16280] [4FD4] Renderer[1][2208] OnChannelConnected - rgsc_ipc_279c_channel_1 (remoteProcessId 10140)
+[2022-08-18 22:10:25.813] [ 16280] [4FD4] All windows now closed, requesting cleanup.
+[2022-08-18 22:10:25.815] [ 16280] [4FD4] Posting quit to main message loop.
+[2022-08-18 22:10:25.815] [ 16280] [4FD4] MainMessageLoopInternalPump - Quit requested
+[2022-08-18 22:10:25.830] [ 16280] [4FD4] MainMessageLoopInternalPump - Preparing to shutdown
+[2022-08-18 22:10:27.694] [ 16280] [4FD4] OnChannelError() - rgsc_ipc_279c
+[2022-08-18 22:10:27.709] [ 16280] [4FD4] Timed out waiting for windows to close on shutdown
+[2022-08-18 22:10:28.955] [ 16280] [4FD4] MainMessageLoopInternalPump - Shutdown
+[2022-08-18 22:11:03.468] [ 18096] [4180] ===================================
+[2022-08-18 22:11:03.468] [ 18096] [4180] Browser process opened from pid: 1940
+[2022-08-18 22:11:03.469] [ 18096] [4180] Language: zh-CN
+[2022-08-18 22:11:03.469] [ 18096] [4180] Connecting to IPC channel: rgsc_ipc_794
+[2022-08-18 22:11:03.469] [ 18096] [4180] Product version: RockstarGames/2.1.5.1/1.0.62.937/launcher/Epic
+[2022-08-18 22:11:03.507] [ 18096] [4180] OnChannelConnected - rgsc_ipc_794 (remoteProcessId 1940)
+[2022-08-18 22:11:05.926] [ 18096] [4180] Renderer[1][3344] IPC channel response: connect to 'rgsc_ipc_794_channel_1'
+[2022-08-18 22:11:05.927] [ 18096] [4180] Renderer[1][3344] Connecting to IPC channel: rgsc_ipc_794_channel_1
+[2022-08-18 22:11:06.019] [ 18096] [4180] Renderer[1][3344] OnChannelConnected - rgsc_ipc_794_channel_1 (remoteProcessId 1940)
+[2022-08-18 22:13:11.076] [ 18096] [4180] All windows now closed, requesting cleanup.
+[2022-08-18 22:13:11.077] [ 18096] [4180] Posting quit to main message loop.
+[2022-08-18 22:13:11.078] [ 18096] [4180] MainMessageLoopInternalPump - Quit requested
+[2022-08-18 22:13:11.097] [ 18096] [4180] MainMessageLoopInternalPump - Preparing to shutdown
+[2022-08-18 22:13:13.629] [ 18096] [4180] OnChannelError() - rgsc_ipc_794
+[2022-08-18 22:13:13.645] [ 18096] [4180] Timed out waiting for windows to close on shutdown
+[2022-08-18 22:13:14.202] [ 18096] [4180] MainMessageLoopInternalPump - Shutdown
+[2022-08-18 22:13:57.833] [ 18544] [2604] ===================================
+[2022-08-18 22:13:57.833] [ 18544] [2604] Browser process opened from pid: 6520
+[2022-08-18 22:13:57.833] [ 18544] [2604] Language: zh-CN
+[2022-08-18 22:13:57.834] [ 18544] [2604] Connecting to IPC channel: rgsc_ipc_1978
+[2022-08-18 22:13:57.834] [ 18544] [2604] Product version: RockstarGames/2.1.5.1/1.0.62.937/launcher/Epic
+[2022-08-18 22:13:57.872] [ 18544] [2604] OnChannelConnected - rgsc_ipc_1978 (remoteProcessId 6520)
+[2022-08-18 22:14:06.160] [ 18544] [2604] Renderer[1][17916] IPC channel response: connect to 'rgsc_ipc_1978_channel_1'
+[2022-08-18 22:14:06.160] [ 18544] [2604] Renderer[1][17916] Connecting to IPC channel: rgsc_ipc_1978_channel_1
+[2022-08-18 22:14:06.333] [ 18544] [2604] Renderer[1][17916] OnChannelConnected - rgsc_ipc_1978_channel_1 (remoteProcessId 6520)
+[2022-08-18 22:15:15.383] [ 18544] [2604] All windows now closed, requesting cleanup.
+[2022-08-18 22:15:15.385] [ 18544] [2604] Posting quit to main message loop.
+[2022-08-18 22:15:15.385] [ 18544] [2604] MainMessageLoopInternalPump - Quit requested
+[2022-08-18 22:15:15.408] [ 18544] [2604] MainMessageLoopInternalPump - Preparing to shutdown
+[2022-08-18 22:15:18.586] [ 18544] [2604] MainMessageLoopInternalPump - Shutdown
+[2022-08-18 22:16:49.779] [ 19412] [431C] ===================================
+[2022-08-18 22:16:49.779] [ 19412] [431C] Browser process opened from pid: 5132
+[2022-08-18 22:16:49.780] [ 19412] [431C] Language: zh-CN
+[2022-08-18 22:16:49.780] [ 19412] [431C] Connecting to IPC channel: rgsc_ipc_140c
+[2022-08-18 22:16:49.781] [ 19412] [431C] Product version: RockstarGames/2.1.5.1/1.0.62.937/launcher/PC
+[2022-08-18 22:16:49.823] [ 19412] [431C] OnChannelConnected - rgsc_ipc_140c (remoteProcessId 5132)
+[2022-08-18 22:16:54.248] [ 19412] [431C] Renderer[1][8232] IPC channel response: connect to 'rgsc_ipc_140c_channel_1'
+[2022-08-18 22:16:54.249] [ 19412] [431C] Renderer[1][8232] Connecting to IPC channel: rgsc_ipc_140c_channel_1
+[2022-08-18 22:16:54.418] [ 19412] [431C] Renderer[1][8232] OnChannelConnected - rgsc_ipc_140c_channel_1 (remoteProcessId 5132)
+[2022-08-18 23:00:55.274] [ 19412] [431C] All windows now closed, requesting cleanup.
+[2022-08-18 23:00:55.280] [ 19412] [431C] Posting quit to main message loop.
+[2022-08-18 23:00:55.281] [ 19412] [431C] MainMessageLoopInternalPump - Quit requested
+[2022-08-18 23:00:55.308] [ 19412] [431C] MainMessageLoopInternalPump - Preparing to shutdown
+[2022-08-18 23:00:58.397] [ 19412] [431C] MainMessageLoopInternalPump - Shutdown
